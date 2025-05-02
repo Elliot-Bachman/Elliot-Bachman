@@ -27,7 +27,6 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/elliot-bachman/)
 - 📁 [Portfolio (Notion)](https://www.notion.so/Software-Engineer-Elliot-Bachman-1dda2b2ba4c28005aa44e1082a228471)
-- 🧾 [Resume](https://www.linkedin.com/in/elliot-bachman/)
 - ✉️ elliotbachmanx@gmail.com
 
 ---
