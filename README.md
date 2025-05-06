@@ -26,7 +26,7 @@
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/elliot-bachman/)
-- 📁 [Portfolio (Notion)](https://www.notion.so/Software-Engineer-Elliot-Bachman-1dda2b2ba4c28005aa44e1082a228471)
+- 📁 [Portfolio (Notion)](https://concise-drawbridge-28d.notion.site/Elliot-Bachman-Career-page-1eaa2b2ba4c280f78c83c0508e410d20)
 - ✉️ elliotbachmanx@gmail.com
 
 ---
